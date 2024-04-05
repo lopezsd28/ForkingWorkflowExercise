@@ -3,8 +3,7 @@
 We use this repository to teach Git and also to collect
 some nice recipes.
 
-
-## Categories
+## Meals
 
 - [salads](salads)
 - [soups](soups)
@@ -12,3 +11,6 @@ some nice recipes.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+
+## Drinks
+- [sodas](sodas)
